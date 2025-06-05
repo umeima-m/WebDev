@@ -1,1 +1,37 @@
-<link rel="stylesheet" href="CSS/style.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Custom Page</title>
+  <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+
+  <!-- Custom Heading with a class -->
+  <h1 class="main-title">Welcome to My Awesome Web Page!</h1>
+
+  <!-- LOLLLL -->
+  <p>Hii what you doingg. 🌟</p>
+
+  <!-- Custom Table -->
+  <table>
+    <tr>
+      <th>Umeima</th>
+      <th>Black</th>
+    </tr>
+    <tr>
+      <td>Ava</td>
+      <td>Blue</td>
+    </tr>
+    <tr>
+      <td>Leo</td>
+      <td>Green</td>
+    </tr>
+  </table>
+
+  <!-- Buttons to change background -->
+  <button onclick="document.body.style.backgroundColor='lightblue'">Blue Background</button>
+  <button onclick="document.body.style.backgroundColor='lightgreen'">Green Background</button>
+
+</body>
+</html>
