@@ -32,9 +32,10 @@
     </tr>
   </table>
 
-  <!-- Buttons to change background -->
-  <button onclick="document.body.style.backgroundColor='lightblue'">Blue Background</button>
-  <button onclick="document.body.style.backgroundColor='lightgreen'">Green Background</button>
+ <!-- Buttons to change background -->
+<br>
+<button onclick="document.body.style.backgroundColor='lightblue'">Blue Background</button>
+<button onclick="document.body.style.backgroundColor='lightgreen'">Green Background</button>
 
 </body>
 </html>
